@@ -1,0 +1,17 @@
+.enlace {
+    cursor: pointer;
+}
+
+#enlaces .active {
+    font-weight: bold;
+}
+
+
+
+.card {
+    background-image: url("https://cdn.pixabay.com/photo/2015/11/22/19/04/crowd-1056764_640.jpg"); 
+    background-color: red; 
+    background-size: cover; 
+    background-position: right bottom; 
+   
+}
